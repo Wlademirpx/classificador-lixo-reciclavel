@@ -84,4 +84,4 @@ Ambiente: Jupyter Notebook / Google Colab
 
 ## Declaração de uso de inteligência artificial
 
-A estrutura inicial do notebook, do README e do roteiro da apresentação foi gerada com apoio do Claude (Anthropic). PREENCHER: descrever o que a equipe fez, revisou e alterou. Todos os integrantes compreendem e sabem explicar o código entregue.
+A estrutura inicial do notebook, do README e do roteiro da apresentação foi gerada com apoio do Claude . A equipe executou todas as células no Google Colab, validou o pré-processamento e a separação dos dados sem vazamento, analisou os resultados da MobileNetV2 em comparação com as baselines, realizou a inspeção de erros e o teste com imagens externas na demonstração, e revisou os textos e métricas desta documentação. Todos os integrantes compreendem e sabem explicar o código entregue.
